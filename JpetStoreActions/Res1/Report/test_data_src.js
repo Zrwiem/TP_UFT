@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\wzouari\\Desktop\\Mission GRDF\\0-Documentation\\TP_UFT_GIT\\ActionsPartagees\\JpetStoreActions\\Res1',namePairs:[]}]};
